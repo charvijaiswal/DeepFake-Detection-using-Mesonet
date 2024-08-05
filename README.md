@@ -16,4 +16,4 @@ and validation.
 
 Purpose:
 - The dataset serves to train the model to recognize deepfake patterns and validate its performance before real-
-world deployment
+world deployment. It gives the confidence based on how much the media is real or fake.
